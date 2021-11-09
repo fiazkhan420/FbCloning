@@ -1,5 +1,5 @@
 #/usr/bin/python2
-#writen/coded/by/harry
+#writen/coded/by/FiazNiazi
 
 try:
 
@@ -11,7 +11,7 @@ except ImportError:
 
     os.system("pip2 install requests")
 
-    os.system("python2 harry.py")
+    os.system("python2 FiazKing.py")
 
 os.system("clear")
 
